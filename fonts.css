@@ -1,0 +1,14 @@
+@font-face {
+    src: url(FONT/PixelifySans-Bold.ttf);
+    font-family: 'FONT';
+}
+
+@font-face {
+    src: url(FONT/TiltNeon-Regular.ttf);
+    font-family: 'TiltNeon';
+}
+
+@font-face {
+    src: url(FONT/DancingScript-Regular.ttf);
+    font-family: 'DancingScript';
+}
